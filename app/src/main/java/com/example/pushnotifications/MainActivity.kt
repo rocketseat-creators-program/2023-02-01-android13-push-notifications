@@ -1,4 +1,4 @@
-package com.example.pushnotifcations
+package com.example.pushnotifications
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.sp
-import com.example.pushnotifcations.ui.theme.PushNotifcationsTheme
+import com.example.pushnotifications.ui.theme.PushNotifcationsTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

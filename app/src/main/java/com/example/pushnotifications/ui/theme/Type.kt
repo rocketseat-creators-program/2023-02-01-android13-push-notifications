@@ -1,4 +1,4 @@
-package com.example.pushnotifcations.ui.theme
+package com.example.pushnotifications.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
