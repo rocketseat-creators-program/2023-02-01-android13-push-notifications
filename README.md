@@ -4,8 +4,6 @@
 
 Nesta aula iremos aprender a implementar Push [Notifications][1] no Android com suporte para o Android 13+ utilizando o [Firebase FCM][2]
 
-Neste projeto é apresentado como usar o widget [AnimatedList][3] no [Flutter][2], para animar listas de dados.
-
 Apresentado por [Douglas Ramalho Motta][4].
 
 ## Expert
